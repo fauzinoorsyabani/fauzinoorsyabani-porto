@@ -271,3 +271,20 @@ export const techStack = {
     { name: "VS Code", icon: "SiVisualstudiocode" },
   ],
 };
+
+export const volunteer = [
+  {
+    role: "Event Organizer Committee",
+    event: "Global Game Jam Tasikmalaya",
+    period: "Jan 2025",
+    description: "Facilitating the execution of Global Game Jam Tasikmalaya 2026, the world's largest game creation event held simultaneously in physical locations across the globe.",
+    details: [
+      "Coordinating a 48-hour hackathon at Creative Center Tasikmalaya, fostering a collaborative environment for developers, artists, and storytellers to create innovative games from scratch.",
+      "Supporting the local tech ecosystem by promoting democratized game development access, ensuring an inclusive environment where beginners and professionals collaborate without financial barriers.",
+      "Developing skills in event management, community building, and rapid problem-solving under tight deadlines."
+    ],
+    image: "/images/volunteer/ggj.jpg",
+    tags: ["Event Management", "Community Building", "Game Development"]
+  }
+];
+

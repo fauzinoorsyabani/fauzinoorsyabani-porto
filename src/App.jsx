@@ -9,6 +9,7 @@ import Certifications from './components/Certifications';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import MeshBackground from './components/MeshBackground';
+import Volunteer from './components/Volunteer';
 import './styles/index.css';
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <TechStack />
         <Projects />
         <Experience />
+        <Volunteer />
         <Awards />
         <Certifications />
         <Contact />
